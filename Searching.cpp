@@ -65,5 +65,5 @@ int main() {
   l.display();
   
   cout << "Searching for 3: ";
-  cout << l.search(2) << endl;
+  cout << l.search(3) << endl;
 }
